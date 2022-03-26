@@ -1,0 +1,90 @@
+body{
+    font-family: "Poppins", sans-serif;
+    color: #1f1f1f;
+
+}
+#title, #download{
+    background-color: #ff4c68;
+    color: white;
+}
+.contain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 100px;
+}
+.svg-inline--fa.fa-w-16 {
+    width: 1em;
+    margin-top: 10px;
+}
+.icon {
+    color: #ef8172;
+    margin-bottom: 5%;
+}
+.fa-5x {
+    font-size: 5em;
+}
+.svg-inline--fa.fa-w-18{
+    width: 1em;
+    margin-top: 15px;
+}
+.testimonials{
+    background-color: #ef8172;
+    color: #fff;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: small;
+    font-weight: 900;
+}
+.testImage{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 10%;
+    margin-top: 20px;
+}
+.brands > img{
+    margin-top: 30px;
+    width: 20%;
+    padding-left: 30px;
+    margin-bottom: 30px;
+}
+#pricing{
+    text-align: center;
+    margin: 50px;
+    background-color: #f8f9fa;
+}
+.cards{
+    margin: 50px;
+}
+#download{
+    text-align: center;
+    padding: 100px;
+    height: 400px;
+}
+.butn{
+    margin-top: 50px;
+    margin-left: 20px;
+    size: 30%;
+}
+#contact{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    height: 300px;
+}
+.saccounts{
+    margin: 50px;
+}
+/* .saccounts > p{
+    margin-top: 50px;
+} */
+.saccounts > svg{
+    font-size: 1rem;
+    line-height: 1.5;
+}
+.fa-2x {
+    font-size: 2em;
+    line-height: 1.5;
+}
