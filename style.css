@@ -7,6 +7,9 @@ body{
     background-color: #ff4c68;
     color: white;
 }
+.i-phone-img{
+    transform: rotate(25deg);
+}
 .contain{
     display: flex;
     justify-content: center;
